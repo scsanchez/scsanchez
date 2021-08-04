@@ -8,8 +8,8 @@ I am passionate about learning and here you will see all my way.
 
 
 How to reach me: 
-- <a href="mailto:sergiocarrascal000@gmail.com"><img src="https://cdn.icon-icons.com/icons2/614/PNG/512/mail-black-envelope-symbol_icon-icons.com_56519.png" align="left" height="28" width="28" ></a>  
-- <a href="https://www.linkedin.com/in/sergio-cs/"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" align="left" height="24" width="24" ></a>
+<a href="mailto:sergiocarrascal000@gmail.com"><img src="https://cdn.icon-icons.com/icons2/614/PNG/512/mail-black-envelope-symbol_icon-icons.com_56519.png" align="left" height="28" width="28" ></a><a href="https://www.linkedin.com/in/sergio-cs/"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" align="left" height="24" width="24" ></a>  
+
 
  
 
