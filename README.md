@@ -1,7 +1,12 @@
 ### Hi 👋, I'm Sergio!
 
-- 🌱  Also learning philosophy. 
-- 🌱  My experience includes: HTML, CSS, Sass, Bootstrap, JavaScript , React, Python, Flask, API REST , PostgreSQL and basic networking tools.
+Hi there! I'm Sergio and I'm a Full Stack web developer. I worked as a biologist in various laboratories for two years and this year I decided to make a big change in my life and develop myself as a programmer.
+
+I am passionate about learning and here you will see all my way.
+- 🌱  I'm learning: JAVA and TypeScript.
+- 🌱  I'm also learning philosophy. 
+
+
 
 
 - 📫  How to reach me: 
