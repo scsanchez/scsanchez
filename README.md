@@ -1,13 +1,14 @@
-## Hi 👋, I'm Sergio!
-### Welcome to my GitHub!
+### Hi 👋, I'm Sergio!
+
+- 🌱  Also learning philosophy. 
+- 🌱  My experience includes: HTML, CSS, Sass, Bootstrap, JavaScript , React, Python, Flask, API REST , PostgreSQL and basic networking tools.
 
 
- 📫 **How to reach me**:
-- <a href="https://www.linkedin.com/in/sergio-cs/"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" align="left" height="28" width="28" ></a>
-- <a href="mailto:sergiocarrascal000@gmail.com"><img src="https://cdn.icon-icons.com/icons2/614/PNG/512/mail-black-envelope-symbol_icon-icons.com_56519.png" align="left" height="28" width="28" ></a>
+- 📫  How to reach me: 
+  - <a href="https://www.linkedin.com/in/sergio-cs/"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" align="left" height="28" width="28" ></a>
+  - <a href="mailto:sergiocarrascal000@gmail.com"><img src="https://cdn.icon-icons.com/icons2/614/PNG/512/mail-black-envelope-symbol_icon-icons.com_56519.png" align="left" height="28" width="28" ></a>
 
-
- **Languages and Tools**:
+ #### Languages and Tools:
 
 <img alt="HMTL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" height="28" width="28" ></a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" height="28" width="28" ></a>
@@ -22,8 +23,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" align="left" height="28" width="28" ></a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" align="left" height="28" width="28" ></a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" height="28" width="28" ></a>
-
-
 
 <!--
 **scsanchez/scsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
