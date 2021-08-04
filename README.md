@@ -4,7 +4,7 @@ Hi there! I'm Sergio and I'm a Full Stack Developer. I worked as a biologist in 
 
 I am passionate about learning and here you will see all my way.
 - 🌱  I'm learning: JAVA and TypeScript.
-- 🌱  And also learning philosophy. 
+- 🌱  and also learning philosophy!. 
 
 
 #### Languages and Tools:
