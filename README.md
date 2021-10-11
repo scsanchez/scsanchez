@@ -30,6 +30,8 @@ Languages and Tools:
 <img src="https://avatars.githubusercontent.com/u/37021919?s=280&v=4" align="left" height="28" width="28" ></a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" align="left" height="28" width="28" ></a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" height="28" width="28" ></a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-1r3kCf5tsqBgUNfwtlOO5eSx1_i0Oqj3-kxziFg7_u3R3xhfiyTyGuWKqdqIm5qsCFc&usqp=CAU" align="left" height="28" width="28" ></a>
+<img src="https://h2m8x3y5.rocketcdn.me/wp-content/uploads/2020/03/ODOO-LOGO.png" align="left" height="28" width="28" ></a>
 
 <!--
 **scsanchez/scsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
