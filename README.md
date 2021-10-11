@@ -1,13 +1,20 @@
-### Hi 👋, I'm Sergio!
+# Hi 👋, I'm Sergio!
 
-Hi there! I'm Sergio and I'm a Full Stack Developer. I worked as a biologist in various laboratories for two years and this year I decided to make a big change in my life and develop myself as a programmer.
+About me
+--------------
 
-I am passionate about learning and here you will see all my way.
+Hi there! I'm Sergio and I'm a Full Stack Developer. I worked as a biologist in various laboratories for two years and this year I decided to make a big change in my life and develop myself as a programmer. 
 
-🌱  I'm learning: Java, TypeScript and also philosophy! 🦉
+:computer: I'm currently working as a Software Developer at [Ecoitec](https://es.linkedin.com/company/ecoitec)
+
+🌱 I am passionate about learning and here you will see all my way.
+
+🦉 I'm learning also philosophy! 
 
 
-#### Languages and Tools:
+
+Languages and Tools:
+------------------
 
 <img alt="HMTL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" height="28" width="28" ></a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" height="28" width="28" ></a>
