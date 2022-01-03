@@ -7,9 +7,9 @@ Hi there! I'm Sergio and I'm a Full Stack Developer. I worked as a biologist in 
 
 :computer: I'm currently working as a Software Developer at [Ecoitec](https://es.linkedin.com/company/ecoitec)
 
-🌱 I am passionate about learning and here you will see all my way.
+🌱 Also I'm passionate about learning and here you will see all my way.
 
-🦉 I'm learning also philosophy! 
+🦉 And I'm learning philosophy! 
 
 
 
