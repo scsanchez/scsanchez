@@ -8,8 +8,6 @@ Hi there! I'm Sergio and I'm a Full Stack Developer. I worked as a biologist in 
 
 🌱 Also I'm passionate about learning and here you will see all my way.
 
-🦉 And I'm learning philosophy! 
-
 
 
 Languages and Tools:
