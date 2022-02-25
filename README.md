@@ -5,7 +5,6 @@ About me
 
 Hi there! I'm Sergio and I'm a Full Stack Developer. I worked as a biologist in various laboratories for two years and this year I decided to make a big change in my life and develop myself as a programmer. 
 
-:computer: I'm currently working as a Software Developer at [Ecoitec](https://es.linkedin.com/company/ecoitec)
 
 🌱 Also I'm passionate about learning and here you will see all my way.
 
