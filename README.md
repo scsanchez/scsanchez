@@ -1,15 +1,5 @@
 # Hi 👋, I'm Sergio!
 
-About me
---------------
-
-Hi there! I'm Sergio and I'm a Full Stack Developer. I worked as a biologist in various laboratories for two years and this year I decided to make a big change in my life and develop myself as a programmer. 
-
-
-🌱 Also I'm passionate about learning and here you will see all my way.
-
-
-
 Languages and Tools:
 ------------------
 
