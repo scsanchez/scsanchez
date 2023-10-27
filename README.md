@@ -1,4 +1,8 @@
-# Hey there!, I'm Sergio!
+hey there! how nice to have you here!
+
+i am a junior developer whose main technologies are react and python. 
+
+in addiction to coding, i love philosophy :)
 
 
 <!--
