@@ -2,8 +2,6 @@ hey there! how nice to have you here!
 
 i am a junior developer whose main technologies are react and python. 
 
-i also love study philosophy :)
-
 
 <!--
 **scsanchez/scsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
