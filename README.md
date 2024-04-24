@@ -1,6 +1,6 @@
 hey there! how nice to have you here!
 
-i am a junior developer whose main technologies are react and python. 
+i am a junior developer whose main technologies are react and python.
  
 https://scsanchez-porfolio.netlify.app/
 <!--
