@@ -1,6 +1,6 @@
-hey there! how nice to have you here! 
+Hey there! How nice to have you here! 
 
-i am a junior developer whose main technologies are react and python.
+I am a junior developer whose main technologies are react and python.
  
 
 <!--
