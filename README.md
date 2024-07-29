@@ -1,6 +1,4 @@
-hey there! 
-
-how nice to have you here! 
+Hey there! How nice to have you here! 
 
 
 <!--
