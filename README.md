@@ -1,18 +1,20 @@
-Hey there! I'm Sergio! 
-How nice to have you here! 
+# 👋 Hi, I'm Sergio!
 
+Bioinformatician with training in biology and experience in programming for biological data analysis.
+I have recently completed a **Master's Degree in Bioinformatics** (2025) and a **Diploma in Bioinformatics and Computational Genomics** (expected in 2026).  
 
-<!--
-**scsanchez/scsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also have training in **Full-Stack software development**, which reinforces my ability to create robust and scalable tools for data analysis.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python, R, Bash
+- Omics data analysis, pipeline development
+- Full-stack development
+- Linux, Docker, Git
+
+---
+
+## 📫 Contact
+- [Email](mailto:hola@scarrascal.com)  
+- [LinkedIn](https://www.linkedin.com/in/sergio-cs)  
