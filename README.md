@@ -5,15 +5,11 @@ I have recently completed a **Master's Degree in Bioinformatics** (2025) and a *
 
 I also have training in **Full-Stack software development**, which reinforces my ability to create robust and scalable tools for data analysis.  
 
----
-
 ## 💻 Skills
 - Python, R, Bash
 - Omics data analysis, pipeline development
 - Full-stack development
 - Linux, Docker, Git
-
----
 
 ## 📫 Contact
 - [Email](mailto:hola@scarrascal.com)  
