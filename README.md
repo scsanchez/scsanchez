@@ -1,15 +1,17 @@
-# 👋 Hi, I'm Sergio!
+# 👋 Hi, I'm Sergio
 
-Bioinformatician with training in biology and experience in programming for biological data analysis.
-I have recently completed a **Master's Degree in Bioinformatics** (2025) and a **Diploma in Bioinformatics and Computational Genomics** (expected in 2026).  
+Bioinformatician, biologist, and philosophy student exploring how computation helps us understand living systems.
 
-I also have training in **Full-Stack software development**, which reinforces my ability to create robust and scalable tools for data analysis.  
+I recently completed a **Master's Degree in Bioinformatics** and a **Diploma in Bioinformatics and Computational Genomics**. I also have training in **software development**, which allows me to build tools and workflows for biological research and data analysis.
 
 ## 💻 Skills
-- Python, R, Bash
-- Omics data analysis, pipeline development
-- Full-stack development
+- Python, R, Bash, JavaScript
+- React
+- Omics data analysis
+- Computational genomics
+- Pipeline development
 - Linux, Docker, Git
+- Software development
 
 ## 📫 Contact
 - [Email](mailto:hola@scarrascal.com)  
